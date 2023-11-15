@@ -1,0 +1,11 @@
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\bin\Debug\ÖğrenciFormu.exe.config
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\bin\Debug\ÖğrenciFormu.exe
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\bin\Debug\ÖğrenciFormu.pdb
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.csprojAssemblyReference.cache
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.Form1.resources
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.Properties.Resources.resources
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.csproj.GenerateResource.cache
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.csproj.CoreCompileInputs.cache
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.exe
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.pdb
+C:\Users\Etem\source\repos\ÖğrenciFormu\ÖğrenciFormu\obj\Debug\ÖğrenciFormu.Form2.resources
